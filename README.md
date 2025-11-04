@@ -7,5 +7,5 @@ Paste this into Project Folder Terminal
 npm i express mysql2 cors
 ```
   
-## STUDDENT:
+## STUDENT:
 - Richard Cornelius V. Timosa II
